@@ -1,0 +1,26 @@
+{
+  "name": "metabot",
+  "version": "1.0.0",
+  "description": "littlefish MetaBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlefish-foundation/MetaBot.git"
+  },
+  "keywords": [
+    "littlefish"
+  ],
+  "author": "Cem Karaca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/littlefish-foundation/MetaBot/issues"
+  },
+  "homepage": "https://github.com/littlefish-foundation/MetaBot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
