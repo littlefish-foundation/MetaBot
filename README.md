@@ -13,7 +13,6 @@ npm install
 
 Then run the following command to start the bot:
 
-```
 
 ```
 {
