@@ -1,4 +1,4 @@
-##MetaBot
+# MetaBot
 
 This is a boilerplate for Discord bots using the Discord.js library. It is designed to be easy to use and easy to understand.
 
